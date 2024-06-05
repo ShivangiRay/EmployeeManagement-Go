@@ -1,0 +1,15 @@
+mode: set
+employeedb/employee/employee.go:30.40,34.2 1 1
+employeedb/employee/employee.go:37.64,38.42 1 1
+employeedb/employee/employee.go:38.42,40.3 1 1
+employeedb/employee/employee.go:41.2,42.12 2 1
+employeedb/employee/employee.go:46.70,49.2 2 1
+employeedb/employee/employee.go:52.63,54.9 2 1
+employeedb/employee/employee.go:54.9,56.3 1 1
+employeedb/employee/employee.go:57.2,58.13 2 1
+employeedb/employee/employee.go:62.57,64.9 2 1
+employeedb/employee/employee.go:64.9,66.3 1 1
+employeedb/employee/employee.go:67.2,68.13 2 1
+employeedb/employee/employee.go:72.56,74.38 2 1
+employeedb/employee/employee.go:74.38,76.3 1 1
+employeedb/employee/employee.go:77.2,77.18 1 1
